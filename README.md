@@ -9,7 +9,7 @@ me.
 ###### **I am constantly coming up with different ways to change my site, so enjoy the latest version!**
 ## Programs Used:
 - VS Code
-- ## Languages Used:
+## Languages Used:
 - HTML
 - CSS
 - Javascript
