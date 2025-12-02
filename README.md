@@ -4,8 +4,7 @@ I have been trying to learn coding since 2019, but I had no idea how to actually
 it, but I still didn’t really learn how coding works. Then last year, instead of studying, I just did and made my own website. Even though I used other scripts and help, I did start to learn how coding 
 works.
 
-Then I took a Business Programming I course this past summer for Python, and since it’s widely used, I finally understood how coding works. It also helped me further understand HTML/CSS and how they work 
-as well. This site, by the way, is like the fifth version, so there’s that. It was supposed to be more professional, but that was hindering my creativity, so now I’m working on a new one that really fits 
+Then I took a Business Programming I course this past summer for Python, and since it’s widely used, I took time to actually figure out how it works, and finally understod coding. This helped me to not only further understand HTML/CSS but other coding languages as well. This site, by the way, is like the fifth version, so there’s that. It was supposed to be more professional, but that was hindering my creativity, so now I’m working on a new one that really fits 
 me.
 ###### **I am constantly coming up with different ways to change my site, so enjoy the latest version!**
 ## Programs Used:
